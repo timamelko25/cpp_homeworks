@@ -1,0 +1,9 @@
+*/build/*.vcxproj*
+*/build/*.sln
+*/build/Calculator.dir
+*/build/CMakeFiles
+*/build/x64
+*/build/CMakeCache.txt
+*/build/cmake_install.cmake
+*/CmakeSettings.json
+.vscode/
